@@ -79,3 +79,9 @@
       }
      ```
 
+## 用法
+
+ + 先将仓库复制到本地
+ 1. `cnpm i `
+ 2. `cnpm i html-webpack-plugin@webpack-contrib/html-webpack-plugin -D `
+ 3. `npm run dev` 运行项目
